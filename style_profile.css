@@ -1,0 +1,40 @@
+body {
+  background-color: #ffe0f0; /* Light pink background */
+}
+ 
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ffccf9; 
+  width: 50%;
+  margin: 20px auto;
+  text-align: center;
+  box-shadow: 0px 0px 15px rgba(255, 105, 180, 0.5); 
+.card a img {
+  width: 30px;
+  height: auto;
+}
+ 
+.card h2 {
+  color: #ff66cc; /* Brighter pink for headings */
+}
+ 
+.half-width {
+  width: 45%; /* Slightly adjust the width for a better fit */
+}
+ 
+.circle-image {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  display: block;
+  margin: auto;
+  border: 2px solid #ffccf9; /* Soft pink border around the image */
+}
+
+Dispose d’un menu contextuel
+
+
+Dispose d’un menu contextuel
